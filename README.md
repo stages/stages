@@ -9,4 +9,4 @@ run it up
 
 <a href="https://www.youtube.com/channel/UC8qf6C2JgE_QDjVw75rVFpQ">youtube</a>
     ·
-    <a href="https://discord.com/invite/pfp">discord</a>
+    <a href="https://discord.com/invite/pfps">discord</a>
