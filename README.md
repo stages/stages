@@ -1,7 +1,9 @@
 # hello, im kazion ( @kazion#1337 )
-run it up
+------
 
 <img src="https://images-ext-2.discordapp.net/external/cyAacrvEDPgX8Fwj4CxRUnd7w4ToFPCsWR_GHjApyq0/%3Ffit%3D480%252C270%26ssl%3D1/https/i0.wp.com/getmybuzzup.com/wp-content/uploads/2018/02/Molly-Brazy-1.gif?width=432&height=243" alt="Avatar" style="border-radius: 75%;">
+
+-----
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazion1337&show_icons=true&theme=dark)
 
