@@ -1,6 +1,6 @@
 ------
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/773670296967577600/782008223380668467/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3738313632383031333231.png" alt="Avatar">
+  <img src="https://i.imgur.com/mlv0ioJ.gif" alt="Avatar">
 </p>
 <p align="center">
     @kazion#1337
