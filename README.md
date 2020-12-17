@@ -5,9 +5,10 @@
 <p align="center">
     @kazion#1337
 <p align="center">
-iphone 7 developer
+mobile developer
 <p align="center">
-
+</p>
+<p align="center">
 <a href="https://discord.com/users/763188423208861706">discord</a>
     ・
     <a href="https://www.instagram.com/kazionluvsyou/">instagram</a>
