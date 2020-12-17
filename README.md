@@ -17,8 +17,5 @@ iphone 7 developer
     <a href="https://github.com/kazion1337">github</a>
 </p>
 
+<p align="center">  
 -----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazion1337&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazion1337&theme=dark&layout=compact)
