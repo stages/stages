@@ -28,7 +28,7 @@ mobile developer
 <!--START_SECTION:waka-->
 ```text
 discord.js   2 hrs 2 mins    █████████████▓░░░░░░░░░░░   34.35 % 
-discord.py   2 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   25.48 % 
+discord.py   1 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   25.48 % 
 HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 LUA          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
