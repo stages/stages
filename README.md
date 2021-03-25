@@ -1,9 +1,9 @@
 ------
 <p align="center">  
-  <img src="https://i.imgur.com/mlv0ioJ.gif" alt="Avatar">
+  <img src="https://i.imgur.com/ikfuVtF.gif" alt="Avatar">
 </p>
 <p align="center">
-    @kazion#0770
+    kazion loves you
 <p align="center">
 mobile developer
 <p align="center">
