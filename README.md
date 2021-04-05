@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/ikfuVtF.gif" alt="Avatar">
 </p>
 <p align="center">
-    kazion loves you
+    @kazion#1337
 <p align="center">
 mobile developer
 <p align="center">
