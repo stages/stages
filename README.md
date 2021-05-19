@@ -47,4 +47,8 @@ CSS          13 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://discord.c99.nl/widget/theme-1/221229106124161025.png" alt="Avatar">
 </p>
 
+<p align="center">  
+  <img src="https://discord.c99.nl/widget/theme-1/156253831859142656.png" alt="Avatar">
+</p>
+
 -----
