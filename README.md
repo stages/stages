@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/ikfuVtF.gif" alt="Avatar">
 </p>
 <p align="center">
-    @kazion#1337
+    @kazion#1972
 <p align="center">
 mobile developer
 <p align="center">
@@ -23,6 +23,13 @@ mobile developer
 -----
 ![](https://visitor-badge.glitch.me/badge?page_id=kazion1337.kazion1337) 
 ![Profile views](https://gpvc.arturio.dev/kazion1337?v=3)
+  
+  - Everything exhibited on my page is only for educational purposes. I am not held responsible for the consequences of using my repositories.
+  - All my projects are old and outdated, most might not work. Reminder that I remain inactive on github and will probably not return.
+
+<img src ="https://discord.c99.nl/widget/theme-1/197524745930014721.png">
+
+-----
 
 ## 📊 Weekly Statistics
 <!--START_SECTION:waka-->
