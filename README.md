@@ -27,7 +27,9 @@ mobile developer
   - Everything exhibited on my page is only for educational purposes. I am not held responsible for the consequences of using my repositories.
   - All my projects are old and outdated, most might not work. Reminder that I remain inactive on github and will probably not return.
 
+<p align="center"> 
 <img src ="https://discord.c99.nl/widget/theme-1/197524745930014721.png">
+</p>
 
 -----
 
