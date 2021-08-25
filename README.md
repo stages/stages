@@ -25,7 +25,7 @@ mobile developer
 ![Profile views](https://gpvc.arturio.dev/kazion1337?v=3)
   
   - Everything exhibited on my page is only for educational purposes. I am not held responsible for the consequences of using my repositories.
-  - All my projects are old and outdated, most might not work. Reminder that I remain inactive on github and will probably not return.
+  - All of my projects are old and outdated, most of them might not function anymore. Reminder that I remain inactive on github and will probably not return.
 
 <p align="center"> 
 <img src ="https://discord.c99.nl/widget/theme-1/197524745930014721.png">
