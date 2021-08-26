@@ -9,9 +9,9 @@ mobile developer
 <p align="center">
 </p>
 <p align="center">
-<a href="https://discord.com/users/763188423208861706">discord</a>
+<a href="https://discord.com/users/197524745930014721">discord</a>
     ・
-    <a href="https://www.instagram.com/kazionluvsyou/">instagram</a>
+    <a href="https://www.instagram.com/kazion1337/">instagram</a>
     ・
     <a href="https://www.youtube.com/channel/UC8qf6C2JgE_QDjVw75rVFpQ">youtube</a>
     ・
