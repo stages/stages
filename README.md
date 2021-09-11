@@ -28,7 +28,7 @@ mobile developer
   - All of my projects are old and outdated, most of them might not function anymore. Reminder that I remain inactive on github and will probably not return.
 
 <p align="center"> 
-<img src ="https://discord.c99.nl/widget/theme-1/197524745930014721.png">
+<img src ="https://lanyard-profile-readme.vercel.app/api/197524745930014721)](https://discord.com/users/197524745930014721">
 </p>
 
 -----
