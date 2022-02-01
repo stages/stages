@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/70340957?v=3" alt="Avatar">
 </p>
 <p align="center">
-    @ 
+    stages 
 <p align="center">
 dev
 <p align="center">
@@ -11,18 +11,18 @@ dev
 <p align="center">
 <a href="https://discord.com/users/197524745930014721">discord</a>
     ・
-    <a href="https://www.instagram.com//">instagram</a>
+    <a href="https://t.me/outlined">telegram</a>
     ・
     <a href="https://www.youtube.com/channel/">youtube</a>
     ・
-    <a href="https://github.com/">github</a>
+    <a href="https://github.com/stages">github</a>
 </p>
 
 <p align="center">  
 
 -----
-![](https://visitor-badge.glitch.me/badge?page_id=kazion1337.kazion1337) 
-![Profile views](https://gpvc.arturio.dev/kazion1337?v=3)
+![](https://visitor-badge.glitch.me/badge?page_id=stages.stages) 
+![Profile views](https://gpvc.arturio.dev/stages?v=3)
   
   - Everything exhibited on my page is only for educational purposes. I am not held responsible for the consequences of using my repositories.
   - All of my projects are old and outdated, most of them might not function anymore. Reminder that I remain inactive on github and will probably not return.
