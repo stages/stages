@@ -5,7 +5,7 @@
 <p align="center">
     stages 
 <p align="center">
-dev
+yes i eradicated 40 of my repositories
 <p align="center">
 </p>
 <p align="center">
