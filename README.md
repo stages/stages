@@ -1,6 +1,6 @@
 ------
 <p align="center">  
-  <img src="https://i.imgur.com/ikfuVtF.gif" alt="Avatar">
+  <img src="https://i.imgur.com/ik" alt="Avatar">
 </p>
 <p align="center">
     @ 
