@@ -5,7 +5,7 @@
 <p align="center">
     stages 
 <p align="center">
-yes i eradicated 40 of my repositories
+ 🥰 🥰 🥰 
 <p align="center">
 </p>
 <p align="center">
@@ -24,8 +24,7 @@ yes i eradicated 40 of my repositories
 ![](https://visitor-badge.glitch.me/badge?page_id=stages.stages) 
 ![Profile views](https://gpvc.arturio.dev/stages?v=3)
   
-  - Everything exhibited on my page is only for educational purposes. I am not held responsible for the consequences of using my repositories.
-  - All of my projects are old and outdated, most of them might not function anymore. Reminder that I remain inactive on github and will probably not return.
+  - 99% of my repositories have been eradicated 👋
 
 <p align="center"> 
 <img src ="https://lanyard-profile-readme.vercel.app/api/197524745930014721">
